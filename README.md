@@ -46,4 +46,4 @@ python upload_image.py path/to/image.png --alt "A cool generated image"
 
 ## License
 
-MIT
+CC0 1.0 Universal
